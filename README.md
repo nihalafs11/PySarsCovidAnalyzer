@@ -40,5 +40,5 @@ Running the Server!
    Once the server is running, open your web browser and navigate to:
    URL: http://127.0.0.1:8000
 
-Logic related to genome sequencing is in genome/views.py
-Enjoy developing!
+Logic related to genome sequencing is in genome/local.py, genome/global_algo.py, and genome/views.py
+Happy Coding!
